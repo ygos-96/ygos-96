@@ -11,7 +11,7 @@
  
  <br>
  
-  ### Você me acha nas redes sociais pelos botões abaixo!
+  ### Você me encontra nas redes sociais pelos botões abaixo!
  
 <div> 
   <a href="https://instagram.com/yg0rg_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
