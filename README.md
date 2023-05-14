@@ -1,7 +1,7 @@
  
  <h1 align="center">Ola, eu sou o Ygor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Formado+em+Técnico+em+T.I;Estudante+de+Desenvolvimento+Full+Stack;4+Kyu+on+Atcoder;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Formado+em+Técnico+em+T.I;Estudante+de+Desenvolvimento+Full+Stack;;Always+learning+new+things"></a>
 </p>
 
 
@@ -12,9 +12,9 @@
 
 <br><br>
 
-- :school: Eu sou formado em Técnico em Informatica pelo `Senac`.
+- :school: Sou formado em Técnico em Informática pelo `Senac`.
 - :technologist: Adoro usar o Software como solução para todos os `Problemas`.
-- :student: Atualmente sou estudante de desenvolvimento Full stack do Dev [Quest](https://devemdobro.com/matriculas-abertas/).
+- :student: Atualmente sou estudante de desenvolvimento Full stack do [Dev Quest](https://devemdobro.com/matriculas-abertas/).
 - :nerd_face: Sempre aprendendo `coisas novas`.
 - :thinking: Atualmente estou aberto para uma nova `oportunidade de trabalho`, este é o [MEU CURRÍCULO](https://drive.google.com/file/d/1VNHc2oIjrkAin1fAVkGNaLhP3yT5vzdd/view?usp=sharing).
 - :boom: Você pode visitar meu [Portfólio]().
@@ -83,7 +83,7 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ygos-96&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	    <img alt="ygos-96 Github Stats" src="https://github-readme-stats.vercel.app/api?username=ygos-96&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ygos-96&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="ygos-96" height="230px"/>
 <br/>
 
@@ -98,28 +98,28 @@
 <div>
   <p align="center">
 	<a href="https://github.com/ygos-96/Selecao-personagens-marvel">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ygos-96&repo=Selecao-personagens-marvel&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/ygos-96/desafio-css-huddle">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ygos-96&repo=desafio-css-huddle&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/ygos-96/agencia-xyz">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ygos-96&repo=agencia-xyz&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/ygos-96/jogo-do-mario">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ygos-96&repo=jogo-do-mario&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/ygos-96/nft-card">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ygos-96&repo=nft-card-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/ygos-96/horas-do-dia">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ygos-96&repo=horas-do-dia&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/ygos-96/menu-the-bank">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ygos-96&repo=menu-the-bank&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="projeto-slider-pokemon">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=7oSkaaa&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ygos-96&repo=projeto-slider-pokemon&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	</details>
 
