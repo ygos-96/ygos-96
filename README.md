@@ -1,7 +1,7 @@
  
  <h1 align="center">Ola, eu sou o Ygor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Formado+em+Técnico+em+T.I;Estudante+de+Desenvolvimento+Full+Stack;;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Formado+em+Técnico+em+T.I;Estudante+de+Desenvolvimento+Full+Stack;26+anos"></a>
 </p>
 
 
@@ -75,9 +75,9 @@
 ---
 
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Estatísticas GitHub 
   
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<details><summary><h3>💻 Estatísticas de perfil</h3></summary>
 
 ----
 	
@@ -91,7 +91,7 @@
   </p>
 </details>
 	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+<details><summary><h3> :open_file_folder: Meus Repositórios </h3></summary>
 
 ----
 	
@@ -110,13 +110,13 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ygos-96&repo=jogo-do-mario&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/ygos-96/nft-card">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ygos-96&repo=nft-card-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ygos-96&repo=nft-card&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/ygos-96/horas-do-dia">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ygos-96&repo=horas-do-dia&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/ygos-96/menu-the-bank">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ygos-96&repo=menu-the-bank&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/ygos-96/menu-thebank">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ygos-96&repo=menu-thebank&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="projeto-slider-pokemon">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ygos-96&repo=projeto-slider-pokemon&theme=tokyonight" alt="GitHub Stats" />
