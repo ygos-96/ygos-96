@@ -123,11 +123,3 @@
     	</a>
 	</details>
 
-</br></br>
-	
-## 🐍 Grafico de contribuições
-	
-<div> 
-  ![Snake animation](https://github.com/ygos-96/ygos-96/blob/output/github-contribution-grid-snake.svg)
-
-</div>
