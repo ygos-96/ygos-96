@@ -23,7 +23,7 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Você consegue contato comigo pelos links abaixo
 <p align="center">
-	<a href = "mailto:ygs.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+	<a href = "mailto:ygs.contato@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" target="_blank"></a>
 	 &emsp;
 	<a href="https://wa.me/11961802437"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp" target="_blank"/></a>
 	 &emsp;
