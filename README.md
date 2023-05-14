@@ -99,6 +99,10 @@
 ----
 	
 <div>
+	<p align="center">
+	<a href="https://github.com/ygos-96/listagem-pokemon">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ygos-96&repo=listagem-pokemon&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
   <p align="center">
 	<a href="https://github.com/ygos-96/Selecao-personagens-marvel">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ygos-96&repo=Selecao-personagens-marvel&theme=tokyonight" alt="GitHub Stats" />
