@@ -116,17 +116,20 @@
     	<a href="https://github.com/ygos-96/jogo-do-mario">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ygos-96&repo=jogo-do-mario&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/ygos-96/nft-card">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ygos-96&repo=nft-card&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/ygos-96/artista-original">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ygos-96&repo=artista-original&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/ygos-96/horas-do-dia">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ygos-96&repo=horas-do-dia&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/ygos-96/menu-thebank">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ygos-96&repo=menu-thebank&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/ygos-96/landpage-tuzinho">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ygos-96&repo=landpage-tuzinho&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="projeto-slider-pokemon">
+	<a href="https://github.com/ygos-96/projeto-slider-pokemon">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ygos-96&repo=projeto-slider-pokemon&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/ygos-96/worshop-predator">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ygos-96&repo=worshop-predator&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	</details>
 
