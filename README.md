@@ -16,8 +16,8 @@
 - :technologist: Adoro usar o Software como solução para todos os `Problemas`.
 - :student: Atualmente sou estudante de desenvolvimento Full stack do [Dev Quest](https://devemdobro.com/matriculas-abertas/).
 - :nerd_face: Sempre aprendendo `coisas novas`.
-- :thinking: Atualmente estou aberto para uma nova `oportunidade de trabalho`, este é o [MEU CURRÍCULO](https://drive.google.com/file/d/1VNHc2oIjrkAin1fAVkGNaLhP3yT5vzdd/view?usp=sharing).
-- :boom: Você pode visitar meu [Portfólio]().
+- :thinking: Atualmente estou aberto para uma nova `oportunidade de trabalho`, este é o [MEU CURRÍCULO](file:///C:/Users/INTEL/Desktop/YgorGomes_DevFrontEndJ%C3%BAnior.pdf).
+- :boom: Você pode visitar meu [Portfólio](https://ygos-96.github.io/portfolio/).
 <br>
 
 
@@ -29,7 +29,7 @@
 	 &emsp;
 	<a href="https://www.linkedin.com/in/ygor-gs2006"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"/></a>
 	 &emsp;
-	<a href="https://www.instagram.com/yg0rg_/" ><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram" target="_blank"/></a>
+	<a href="https://www.instagram.com/yy60r_/" ><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram" target="_blank"/></a>
 </p>
 
 
