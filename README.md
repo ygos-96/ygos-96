@@ -16,7 +16,7 @@
 - :technologist: Adoro usar o Software como solução para todos os `Problemas`.
 - :student: Atualmente sou estudante de desenvolvimento Full stack do [Dev Quest](https://devemdobro.com/matriculas-abertas/).
 - :nerd_face: Sempre aprendendo `coisas novas`.
-- :thinking: Atualmente estou aberto para uma nova `oportunidade de trabalho`, este é o [MEU CURRÍCULO](file:///C:/Users/INTEL/Desktop/YgorGomes_DevFrontEndJ%C3%BAnior.pdf).
+- :thinking: Atualmente estou aberto para uma nova `oportunidade de trabalho`, este é o [MEU CURRÍCULO](https://drive.google.com/file/d/1MtzIAFqDwz2JttkGZ1Jph5eCdzEJHFkC/view?usp=drive_link).
 - :boom: Você pode visitar meu [Portfólio](https://ygos-96.github.io/portfolio/).
 <br>
 
