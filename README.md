@@ -1,7 +1,7 @@
  
  <h1 align="center">Olá, eu sou o Ygor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Formado+em+Técnico+em+T.I;Estudante+de+Desenvolvimento+Full+Stack;28+anos"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Formado+em+Técnico+em+T.I;Estudante+de+Desenvolvimento+Full+Stack;29+anos"></a>
 </p>
 
 
@@ -14,9 +14,9 @@
 
 - :school: Sou formado em Técnico de Informática pelo `Senac`.
 - :technologist: Adoro usar o Software como solução para todos os `Problemas`.
-- :student: Atualmente sou estudante de desenvolvimento Full stack do [Dev Quest](https://devemdobro.com/matriculas-abertas/).
+- :student: Atualmente sou estudante de Análise e Desenvolvimento de Software [Senac](https://www.ead.senac.br/).
 - :nerd_face: Sempre aprendendo `coisas novas`.
-- :thinking: Atualmente estou aberto para uma nova `oportunidade de trabalho`, este é o [MEU CURRÍCULO](https://drive.google.com/file/d/1MtzIAFqDwz2JttkGZ1Jph5eCdzEJHFkC/view?usp=drive_link).
+- :thinking: Atualmente estou buscando me desenvolver como profissional através de `projetos` e `estudos`, este é o [MEU CURRÍCULO](https://drive.google.com/file/d/1MtzIAFqDwz2JttkGZ1Jph5eCdzEJHFkC/view?usp=drive_link).
 - :boom: Você pode visitar meu [Portfólio](https://ygos-96.github.io/portfolio/).
 <br>
 
