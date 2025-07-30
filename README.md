@@ -17,7 +17,7 @@
 - :student: Atualmente sou estudante de Análise e Desenvolvimento de Software [Senac](https://www.ead.senac.br/).
 - :nerd_face: Sempre aprendendo `coisas novas`.
 - :thinking: Atualmente estou buscando me desenvolver como profissional através de `projetos` e `estudos`, este é o [MEU CURRÍCULO](https://drive.google.com/file/d/1MtzIAFqDwz2JttkGZ1Jph5eCdzEJHFkC/view?usp=drive_link).
-- :boom: Você pode visitar meu [Portfólio](https://ygos-96.github.io/portfolio/).
+- :boom: Você pode visitar meu [Portfólio](https://ygos-96.github.io/portfolio-att/).
 <br>
 
 
